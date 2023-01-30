@@ -1,0 +1,570 @@
+Black - Aristocrats
+(20)
+All (20)
+Barren Moor
+Swamp
+Swamp
+Swamp
+Swamp
+Swamp
+Thriving Moor
+Defile
+Lash of Malice
+Nested Shambler
+Plagued Rusalka
+Unwilling Ingredient
+Village Rites
+Doomed Dissenter
+Sultai Emissary
+Tragic Fall
+Deathbloom Thallid
+Phyrexian Ghoul
+Bone Picker
+Gurmag Angler
+Black - ETB
+(20)
+All (20)
+Swamp
+Swamp
+Swamp
+Swamp
+Swamp
+Swamp
+Thriving Moor
+Blood Fountain
+Dead Weight
+Ecstatic Awakener
+Cast Down
+Dusk Legion Zealot
+Lazotep Reaver
+Ob Nixilis's Cruelty
+Phyrexian Rager
+Wakedancer
+Faceless Butcher
+Blade Juggler
+Loathsome Curator
+First-Sphere Gargantua
+Black - Graveyard
+(20)
+All (20)
+Swamp
+Swamp
+Swamp
+Swamp
+Swamp
+Swamp
+Thriving Moor
+Carrion Feeder
+Persistent Specimen
+Tragic Slip
+Unearth
+Butcher Ghoul
+Death Denied
+Feed the Swarm
+Putrid Goblin
+Ransack the Lab
+Bloodflow Connoisseur
+Falkenrath Noble
+Gravedigger
+Silumgar Scavenger
+Black - Removal
+(20)
+All (20)
+Swamp
+Swamp
+Swamp
+Swamp
+Swamp
+Swamp
+Thriving Moor
+Disfigure
+Ruthless Ripper
+Feign Death
+Guardian Idol
+Last Gasp
+Mire's Grasp
+Night's Whisper
+Crypt Rats
+Read the Bones
+Eyeblight Massacre
+Pestilence
+Thorn of the Black Rose
+Eldrazi Devastator
+Blue - Bounce
+(20)
+All (20)
+Island
+Island
+Island
+Island
+Island
+Island
+Thriving Isle
+Omen of the Sea
+Aether Adept
+Aven Eternal
+Capsize
+Displace
+Eldrazi Skyspawner
+Filigree Familiar
+Ghostly Flicker
+Man-o'-War
+Mist Raven
+Mnemonic Wall
+Mulldrifter
+Pondering Mage
+Blue - Control
+(20)
+All (20)
+Island
+Island
+Island
+Island
+Island
+Island
+Thriving Isle
+Ponder
+Preordain
+Counterspell
+Deprive
+Halimar Wavewatch
+Lose Focus
+Mana Leak
+Miscalculation
+Omenspeaker
+Skittering Crustacean
+Mirrorshell Crab
+Striped Riverwinder
+Treasure Cruise
+Blue - Flying
+(20)
+All (20)
+Island
+Island
+Island
+Island
+Island
+Island
+Thriving Isle
+Bind the Monster
+Bubble Snare
+Witness Protection
+Carnivorous Death-Parrot
+Faerie Duelist
+Mistral Singer
+Warden of Evos Isle
+Augury Raven
+Behold the Multiverse
+Ray of Command
+Shimmering Glasskite
+Watcher in the Mist
+Errant Ephemeron
+Blue - Tempo
+(20)
+All (20)
+Island
+Island
+Island
+Island
+Island
+Island
+Thriving Isle
+Faerie Seer
+Hard Evidence
+Opt
+Blink of an Eye
+Into the Roil
+Moon-Circuit Hacker
+Remove Soul
+Snap
+Cloudkin Seer
+Frost Trickster
+Pestermite
+Ninja of the Deep Hours
+Scattered Thoughts
+Green - Bogles
+(20)
+All (20)
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Thriving Grove
+Giant Growth
+Rancor
+Tamiyo's Safekeeping
+Vines of Vastwood
+Ambush Viper
+Ram Through
+Wild Mongrel
+Cartouche of Strength
+Jungleborn Pioneer
+Moldervine Cloak
+Jade Guardian
+Primal Huntbeast
+Bannerhide Krushok
+Green - Midrange
+(20)
+All (20)
+Forest
+Forest
+Forest
+Forest
+Forest
+Thriving Grove
+Tranquil Thicket
+Elvish Mystic
+Massive Might
+Snakeskin Veil
+Grapple with the Past
+Master's Rebuke
+Three Visits
+Titanic Brawl
+Werebear
+Sarulf's Packmate
+Voracious Typhon
+Nessian Asp
+Hooting Mandrills
+Krosan Tusker
+Green - Ramp
+(20)
+All (20)
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Thriving Grove
+Llanowar Elves
+Wayfarer's Bauble
+Abundant Harvest
+Gnarlid Colony
+Mind Stone
+Nature's Lore
+Rampant Growth
+Sakura-Tribe Elder
+Thornweald Archer
+Llanowar Visionary
+Greater Tanuki
+Owlbear
+Ulamog's Crusher
+Green - Tokens
+(20)
+All (20)
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Thriving Grove
+Young Wolf
+Bayou Groff
+Brindle Shoat
+Mother Bear
+Prizefight
+Elephant Guide
+Jewel Thief
+Phantom Tiger
+Pulse of Murasa
+Renegade Freighter
+Scion Summoner
+Penumbra Spider
+Trumpeting Herd
+Red - Buff
+(20)
+All (20)
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Thriving Bluff
+Frenzied Goblin
+Jackal Pup
+Reckless Charge
+Abrade
+Burning Prophet
+Fire Prophecy
+Incinerate
+Mayhem Patrol
+Rimrock Knight
+Underworld Rage-Hound
+Staggershock
+Goblin Heelcutter
+Quakefoot Cyclops
+Red - Go Wide
+(20)
+All (20)
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Thriving Bluff
+Dynacharge
+Fireball
+Forbidden Friendship
+Krenko's Command
+Makeshift Munitions
+Mogg War Marshal
+Ambitious Assault
+Ghirapur Gearcrafter
+Hordeling Outburst
+Raid Bombardment
+Witty Roastmaster
+Beetleback Chief
+Wildfire Elemental
+Red - RDW
+(20)
+All (20)
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Thriving Bluff
+Burst Lightning
+Chain Lightning
+Fanatical Firebrand
+Lightning Bolt
+Firebrand Archer
+Fireslinger
+Ghitu Lavarunner
+Lightning Strike
+Reckless Impulse
+Viashino Pyromancer
+Rift Bolt
+Skewer the Critics
+Fireblast
+Red - Sacrifice
+(20)
+All (20)
+Forgotten Cave
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Thriving Bluff
+Faithless Looting
+Grim Initiate
+Insolent Neonate
+Heartfire
+Hobblefiend
+Keldon Marauders
+Perilous Myr
+Bogardan Dragonheart
+Fiery Cannonade
+Hissing Iguanar
+Skophos Reaver
+Ardent Elementalist
+Famished Foragers
+White - Equipment
+(20)
+All (20)
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Thriving Heath
+Adventuring Gear
+Bonesplitter
+Deftblade Elite
+Flayer Husk
+Gingerbrute
+Gods Willing
+Ancestral Blade
+Bonds of Faith
+Seeker of the Way
+Topan Freeblade
+Vulshok Morningstar
+Porcelain Legionnaire
+Guardian of the Guildpact
+White - Flicker / Blink
+(20)
+All (20)
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Thriving Heath
+Ephemerate
+Faerie Guidemother
+Thraben Inspector
+Kor Skyfisher
+Otherworldly Journey
+Attended Knight
+Inspiring Overseer
+Ordinary Pony
+Sandsteppe Outcast
+Gallant Cavalry
+Pierce Strider
+Custodi Squire
+Settle Beyond Reality
+White - Prison
+(20)
+All (20)
+Desert
+Plains
+Plains
+Plains
+Plains
+Plains
+Thriving Heath
+Gideon's Lawkeeper
+Cathar Commando
+Journey to Nowhere
+Temporal Isolation
+Heliod's Pilgrim
+Minimus Containment
+Oblivion Ring
+Pristine Talisman
+Coalition Honor Guard
+Faith's Fetters
+Seraph of Dawn
+Sunblade Samurai
+Totem-Guide Hartebeest
+White - Weenie
+(20)
+All (20)
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Thriving Heath
+Doomed Traveler
+Elite Vanguard
+Hunted Witness
+Dauntless Unity
+Gather the Townsfolk
+Phantom Nomad
+Raise the Alarm
+Unbounded Potential
+Borrowed Grace
+Battle Screech
+Rhox Veteran
+Search Party Captain
+Triplicate Spirits
+_Azorius Guildpack_
+(8)
+All (8)
+Azorius Chancery
+Glacial Floodplain
+Skybridge Towers
+Curse of Chains
+Deputy of Acquittals
+Momentary Blink
+Silver Drake
+Lawmage's Binding
+_Boros Guildpack_
+(8)
+All (8)
+Alpine Meadow
+Boros Garrison
+Lorehold Campus
+Wojek Halberdiers
+Rally the Peasants
+Skyknight Legionnaire
+War Flare
+Relic Sloth
+_Dimir Guildpack_
+(8)
+All (8)
+Dimir Aqueduct
+Ice Tunnel
+Waterfront District
+Agony Warp
+Cavern Harpy
+Dimir Guildmage
+Soul Manipulation
+Dinrova Horror
+_Golgari Guildpack_
+(8)
+All (8)
+Golgari Rot Farm
+Witherbloom Campus
+Woodland Chasm
+Drey Keeper
+Grisly Salvage
+Infuse with Vitality
+Consume Strength
+Desecrator Hag
+_Gruul Guildpack_
+(8)
+All (8)
+Gruul Turf
+Highland Forest
+Racers' Ring
+Burning-Tree Emissary
+Colossal Might
+Branching Bolt
+Goblin Anarchomancer
+Frenzied Arynx
+_Izzet Guildpack_
+(8)
+All (8)
+Izzet Boilerworks
+Prismari Campus
+Volatile Fjord
+Goblin Electromancer
+Jilt
+Fire // Ice
+Hypothesizzle
+Izzet Chronarch
+_Orzhov Guildpack_
+(8)
+All (8)
+Orzhov Basilica
+Silverquill Campus
+Snowfield Sinkhole
+Breathless Knight
+Imperious Oligarch
+Kingpin's Pet
+Pillory of the Sleepless
+Unmake
+_Rakdos Guildpack_
+(8)
+All (8)
+Rakdos Carnarium
+Sulfurous Mire
+Tramway Station
+Body Dropper
+Spike Jester
+Terminate
+Blightning
+Kathari Bomber
+_Selesnya Guildpack_
+(8)
+All (8)
+Arctic Treeline
+Botanical Plaza
+Selesnya Sanctuary
+Qasali Pridemage
+Safehold Elite
+Sigil Blessing
+Travel Preparations
+Captured by Lagacs
+_Simic Guildpack_
+(8)
+All (8)
+Quandrix Campus
+Rimewood Falls
+Simic Growth Chamber
+Coiling Oracle
+Wavesifter
+Aeromunculus
+Quandrix Pledgemage
+Temporal Spring

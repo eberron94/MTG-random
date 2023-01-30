@@ -1,0 +1,2073 @@
+
+===
+
+# Abdel Blink Tokens
+
+Castle Ardenvale
+Plains
+Plains
+Plains
+Plains
+Thriving Heath
+Thriving Heath
+Spirited Companion
+Archaeomancer's Map
+Deadeye Harpooner
+Oketra's Monument
+Skyclave Apparition
+Galepowder Mage
+Kor Cartographer
+Lulu, Loyal Hollyphant
+Meadowboon
+Abdel Adrian, Gorion's Ward
+Call for Unity
+Makindi Stampede
+Pegasus Guardian
+
+===
+
+# Adeline Tokens
+
+Plains
+Plains
+Plains
+Thriving Heath
+Thriving Heath
+Westvale Abbey
+Windbrisk Heights
+Legion's Landing
+Springleaf Drum
+Conclave Tribunal
+Kabira Takedown
+Mikaeus, the Lunarch
+Raise the Alarm
+Adeline, Resplendent Cathar
+Heraldic Banner
+Welcoming Vampire
+Gideon, Ally of Zendikar
+Angel of Invention
+Ao, the Dawn Sky
+Defiler of Faith
+
+===
+
+# Alela Ench Art Tokens
+
+Caves of Koilos
+Flooded Strand
+Island
+Plains
+Raffine's Tower
+Swamp
+Temple of Silence
+Thriving Moor
+Curse of Silence
+Michiko's Reign of Truth
+Talisman of Progress
+Borrowed Time
+Commander's Sphere
+Navigation Orb
+Tameshi, Reality Architect
+Zur, Eternal Schemer
+Alela, Artful Provocateur
+Firja's Retribution
+Platoon Dispenser
+The Cruelty of Gix
+
+===
+
+# Alesha Weenie Reanimator
+
+Arid Mesa
+Blackcleave Cliffs
+Mountain
+Orzhov Basilica
+Plains
+Survivors' Encampment
+Swamp
+Thriving Heath
+Feldon, Ronom Excavator
+Key to the City
+Selfless Spirit
+Alesha, Who Smiles at Death
+Alloy Myr
+Basal Sliver
+Imperial Recruiter
+Phyrexian Dragon Engine
+Subira, Tulzidi Caravanner
+Azorius Justiciar
+Serra Paragon
+Serra Redeemer
+
+===
+
+# Anhelo Casualty Spells
+
+Choked Estuary
+Crumbling Necropolis
+Island
+Mountain
+Rocky Tar Pit
+Smoldering Marsh
+Swamp
+Thriving Bluff
+Deadly Dispute
+Goblin Electromancer
+Spellbinding Soprano
+Terminate
+Anhelo, the Painter
+Brimstone Volley
+Poppet Stitcher
+Squee, the Immortal
+Cryptic Pursuit
+Jeleva, Nephalia's Scourge
+Storm-Kiln Artist
+Deekah, Fractal Theorist
+
+===
+
+# Animar Counters Ramp
+
+Cragcrown Pathway
+Forest
+Island
+Mountain
+Raging Ravine
+Riverglide Pathway
+Temple of Mystery
+Thriving Isle
+Stonecoil Serpent
+Animar, Soul of Elements
+Sporocyst
+Benevolent Hydra
+Forgotten Ancient
+Magus Lucea Kane
+Mawloc
+Zoanthrope
+Hydroid Krasis
+Shivan Devastator
+Soul of the Harvest
+The Swarmlord
+
+===
+
+# Atla Creature Token
+
+Forest
+Kher Keep
+Mossfire Valley
+Mountain
+Overgrown Farmland
+Plains
+Sungrass Prairie
+Thriving Grove
+Bennie Bracks, Zoologist
+Determined Iteration
+Gala Greeters
+Blasting Station
+Domri, Anarch of Bolas
+Jaheira, Friend of the Forest
+Scute Swarm
+Atla Palani, Nest Tender
+Burn Down the House
+Mycoloth
+Ravenous Gigantotherium
+End-Raze Forerunners
+
+===
+
+# Atraxa Counters
+
+Forest
+Forge of Heroes
+Mana Confluence
+Path of Ancestry
+Plains
+Thriving Grove
+Vivid Meadow
+Watery Grave
+Gyre Sage
+Astral Cornucopia
+Fight Rigging
+Gideon Blackblade
+Transmogrifying Wand
+Ajani, the Greathearted
+Atraxa, Praetors' Voice
+Crystalline Crawler
+Kiora, Master of the Depths
+Deepglow Skate
+Elspeth Conquers Death
+Sanctuary Warden
+
+===
+
+# Brago Blink
+
+Adarkar Wastes
+Island
+Island
+Mystic Gate
+Plains
+Plains
+Prairie Stream
+Thriving Heath
+Azorius Signet
+Loyal Warhound
+Basalt Monolith
+Combat Thresher
+Recruiter of the Guard
+Skyclave Apparition
+Soulherder
+Brago, King Eternal
+Nevermaker
+Restoration Angel
+Wingmate Roc
+Linvala, the Preserver
+
+===
+
+# Breya Artifact Sacrifice
+
+Academy Ruins
+Blood Crypt
+Island
+Marsh Flats
+Spire of Industry
+Swamp
+Thriving Isle
+Vivid Crag
+Forsworn Paladin
+Chief Engineer
+Emry, Lurker of the Loch
+Scrapheap Scrounger
+Sword of the Meek
+Tawnos, Solemn Survivor
+Time Sieve
+Jan Jansen, Chaos Crafter
+Treasure Nabber
+Breya, Etherium Shaper
+Pitiless Plunderer
+Saheeli, Filigree Master
+
+===
+
+# Carth Planeswalkers
+
+Forest
+Forest
+Hissing Quagmire
+Nurturing Peatland
+Skemfar Elderhall
+Swamp
+Thriving Moor
+Treetop Village
+Wild Growth
+Heart of Kiran
+Wolfwillow Haven
+Liliana, the Last Hope
+Oath of Liliana
+Carth the Lion
+Garruk Relentless
+Nissa of Shadowed Boughs
+Storrev, Devkarin Lich
+Lolth, Spider Queen
+Garruk, Cursed Huntsman
+Vorinclex, Monstrous Raider
+
+===
+
+# Chandra Planeswalkers
+
+Den of the Bugbear
+Karn's Bastion
+Mountain
+Mountain
+Mountain
+Mountain
+Thriving Bluff
+Thriving Bluff
+Chandra's Regulator
+Guardian Idol
+Light Up the Night
+Oath of Chandra
+Chandra, Dressed to Kill
+Chandra, Fire of Kaladesh
+Chandra's Phoenix
+Renegade Firebrand
+Chandra, Torch of Defiance
+Karplusan Hound
+Repeated Reverberation
+Chandra, Heart of Fire
+
+===
+
+# Chulane Creature Value
+
+Azorius Chancery
+Forest
+Hinterland Harbor
+Island
+Plains
+Seachrome Coast
+Thriving Heath
+Elvish Mystic
+Flower // Flourish
+Bloom Tender
+Silver Myr
+Aether Channeler
+Augur of Autumn
+Brutal Cathar
+Stonecloaker
+Yasharn, Implacable Earth
+Baral's Expertise
+Chulane, Teller of Tales
+Greenwarden of Murasa
+Sweet-Gum Recluse
+
+===
+
+# Derevi Untap Evasion
+
+Canopy Vista
+Dreamroot Cascade
+Forest
+Glacial Fortress
+Island
+Plains
+Selesnya Sanctuary
+Thriving Grove
+Giant Killer
+Gryff's Boon
+Noble Hierarch
+Recruitment Officer
+Fertile Ground
+Ghostly Pilferer
+Suspicious Stowaway
+Sword of the Animist
+Derevi, Empyrial Tactician
+Grazilaxx, Illithid Scholar
+Tamiyo, Field Researcher
+Toski, Bearer of Secrets
+
+===
+
+# Dihada Legends
+
+Mountain
+Plains
+Plaza of Heroes
+Savai Triome
+Shattered Sanctum
+Swamp
+Temple of Malice
+Thriving Moor
+Yoshimaru, Ever Faithful
+Boros Signet
+Cast Down
+Talisman of Hierarchy
+Acererak the Archlich
+Relic of Legends
+Cadric, Soul Kindler
+Dihada, Binder of Wills
+Odric, Lunarch Marshal
+Ratadrabik of Urborg
+Shanid, Sleepers' Scourge
+Ob Nixilis Reignited
+
+===
+
+# Djeru Planeswalker
+
+Brightclimb Pathway
+Concealed Courtyard
+Plains
+Plains
+Swamp
+Swamp
+Thriving Heath
+Marble Diamond
+Ornithopter of Paradise
+Mila, Crafty Companion
+Pelakka Predation
+Spinning Wheel
+Ajani Steadfast
+Arena Rector
+Settle the Score
+Sorin the Mirthless
+Djeru, With Eyes Open
+Tevesh Szat, Doom of Fools
+The Eldest Reborn
+Urza Assembles the Titans
+
+===
+
+# Drana Reanimator
+
+Shizo, Death's Storehouse
+Swamp
+Swamp
+Swamp
+Swamp
+Takenuma, Abandoned Mire
+Thriving Moor
+Thriving Moor
+Dark Ritual
+Collective Brutality
+Leaden Myr
+Millikin
+Overwhelming Remorse
+Cemetery Tampering
+Oriq Loremage
+Drana, the Last Bloodchief
+Liliana, Death's Majesty
+Syr Konrad, the Grim
+Burning-Rune Demon
+Lord of the Void
+
+===
+
+# Eligeth Scrying Flying
+
+Crystal Grotto
+Island
+Island
+Island
+Isolated Watchtower
+Otawara, Soaring City
+Thriving Isle
+Thriving Isle
+Fading Hope
+Kenessos, Priest of Thassa
+Sigiled Starfish
+Jace, Mirror Mage
+Mana Geode
+Seer's Lantern
+Siani, Eye of the Storm
+Djinn of Wishes
+Vanishment
+Eligeth, Crossroads Augur
+The Temporal Anchor
+Stormtide Leviathan
+
+===
+
+# Elsha Noncreature Flash
+
+Island
+Mountain
+Nimbus Maze
+Plains
+Raugrin Triome
+Rugged Prairie
+Thriving Heath
+Enlightened Tutor
+Prismatic Ending
+Darksteel Mutation
+Fellwar Stone
+Shatterskull Smashing
+Talisman of Creativity
+Cultivator's Caravan
+Mirrormade
+The Phasing of Zhalfir
+Batterskull
+Elsha of the Infinite
+Skysovereign, Consul Flagship
+Shark Typhoon
+
+===
+
+# Emiel Creature Blink
+
+Forest
+Forest
+Fortified Village
+Plains
+Plains
+Razorverge Thicket
+Thriving Heath
+Wooded Bastion
+Ephemerate
+Selesnya Signet
+Wall of Omens
+Eternal Witness
+Farhaven Elf
+Flickerwisp
+Mangara of Corondor
+Wood Elves
+Emiel the Blessed
+Teleportation Circle
+Trostani Discordant
+Kogla, the Titan Ape
+
+===
+
+# Falco Profiliwalkers
+
+Forest
+Interplanar Beacon
+Irrigated Farmland
+Island
+Plains
+Seaside Citadel
+Thriving Heath
+Waterlogged Grove
+Grateful Apparition
+Gyre Engineer
+Jiang Yanggu, Wildcrafter
+Kasmina, Enigma Sage
+Kodama's Reach
+Lae'zel, Vlaakith's Champion
+Ajani, Sleeper Agent
+Falco Spara, Pactweaver
+Bioessence Hydra
+Brokers Confluence
+Oath of Teferi
+Tamiyo, Compleated Sage
+
+===
+
+# Feldon Unearth
+
+Castle Embereth
+Mountain
+Mountain
+Mountain
+Mountain
+Spinerock Knoll
+Thriving Bluff
+Thriving Bluff
+Fire Diamond
+Mind Stone
+Birthing Pod
+Fable of the Mirror-Breaker
+Feldon of the Third Path
+Seasoned Pyromancer
+Grimoire of the Dead
+Ox of Agonas
+Ruin Grinder
+Blast-Furnace Hellkite
+Bosh, Iron Golem
+Triplicate Titan
+
+===
+
+# Garth Value
+
+Ash Barrens
+Command Tower
+Hallowed Fountain
+Island
+Jetmir's Garden
+Swamp
+Thriving Moor
+Windswept Heath
+Coalition Relic
+Drumbellower
+Faeburrow Elder
+Intrepid Hero
+Kiora, Behemoth Beckoner
+Thousand-Year Elixir
+Vizier of Tumbling Sands
+Angel of Condemnation
+Garth One-Eye
+Roon of the Hidden Realm
+Samut, Voice of Dissent
+Scion of Draco
+
+===
+
+# Golos Ability Cheat
+
+Cascading Cataracts
+Glimmervoid
+Misty Rainforest
+Mountain
+Spara's Headquarters
+Thriving Bluff
+Vivid Marsh
+Dig Up
+Arcane Signet
+Tawnos, Urza's Apprentice
+Bronze Walrus
+Chaos Wand
+Proteus Staff
+Replicating Ring
+Dynaheir, Invoker Adept
+Kurkesh, Onakke Ancient
+Etched Monstrosity
+Golos, Tireless Pilgrim
+Jegantha, the Wellspring
+Mishra, Eminent One
+
+===
+
+# Goreclaw Aggro
+
+Castle Garenbrig
+Forest
+Forest
+Forest
+Mosswort Bridge
+Thriving Grove
+Thriving Grove
+Bushwhack
+Primal Might
+Ebony Fly
+Colossal Majesty
+Gwenna, Eyes of Gaea
+Bramble Sovereign
+Goreclaw, Terror of Qal Sisma
+Neyith of the Dire Hunt
+Defiler of Vigor
+Elder Gargaroth
+Garruk's Packleader
+Thorn Mammoth
+Ghalta, Primal Hunger
+
+===
+
+# Greven+Chainer Aristo-animator
+
+Foreboding Ruins
+Haunted Ridge
+Mountain
+Mountain
+Mountain
+Swamp
+Swamp
+Thriving Bluff
+Generator Servant
+Kalain, Reclusive Painter
+Anje's Ravager
+Egon, God of Death
+Patron of the Arts
+Plague Reaver
+Rotting Regisaur
+Shakedown Heavy
+Chainer, Nightmare Adept
+Greven, Predator Captain
+Flayer of the Hatebound
+Shadowgrange Archfiend
+
+===
+
+# Grimgrin Aristocrats
+
+Drowned Catacomb
+Island
+Island
+Swamp
+Swamp
+Tainted Isle
+Thriving Isle
+Persistent Specimen
+Diabolic Intent
+Dimir Signet
+Jadar, Ghoulcaller of Nephalia
+Talisman of Dominance
+Weatherlight Compleated
+Agadeem's Awakening
+Ophiomancer
+Skyclave Relic
+Gisa, Glorious Resurrector
+Overcharged Amalgam
+Grimgrin, Corpse-Born
+Havengul Lich
+
+===
+
+# Hamza Proliferate
+
+Bretagard Stronghold
+Forest
+Forest
+Oran-Rief, the Vastwood
+Plains
+Scattered Groves
+Stirring Wildwood
+Thriving Grove
+Kurbis, Harvest Celebrant
+Collective Effort
+Heronblade Elite
+Jugan Defends the Temple
+Marwyn, the Nurturer
+Nissa, Voice of Zendikar
+Park Heights Maverick
+Armorcraft Judge
+Basri's Lieutenant
+Clay Champion
+Wanderer's Strike
+Hamza, Guardian of Arashin
+
+===
+
+# Hinata Target Spells
+
+Island
+Mountain
+Mystic Monastery
+Plains
+Steam Vents
+Sunbaked Canyon
+Thriving Heath
+March of Swirling Mist
+Reckless Rage
+Battlefield Thaumaturge
+Illuminator Virtuoso
+Reality Spasm
+Sejiri Shelter
+Sudden Breakthrough
+Feather, the Redeemed
+Mavinda, Students' Advocate
+Hinata, Dawn-Crowned
+Orvar, the All-Form
+Sublime Epiphany
+Magma Opus
+
+===
+
+# Hofri Creature Death Value
+
+Inspiring Vantage
+Mountain
+Mountain
+Plains
+Plains
+Plains
+Sundown Pass
+Thriving Bluff
+Selfless Savior
+Reckless Barbarian
+Crater Elemental
+Network Terminal
+Phyrexian Altar
+Captivating Crew
+Delina, Wild Mage
+Opportunistic Dragon
+The Akroan War
+Hofri Ghostforge
+Terror of the Peaks
+Combustible Gearhulk
+
+===
+
+# Isperia Flyers
+
+Celestial Colonnade
+Deserted Beach
+Hengegate Pathway
+Island
+Island
+Plains
+Plains
+Thriving Isle
+Sky Diamond
+Watcher of the Spheres
+Duelist's Heritage
+Ojutai Monument
+Wandering Eye
+Donal, Herald of Wings
+Skymark Roc
+Zeriam, Golden Wind
+Alrund, God of the Cosmos
+Dazzling Sphinx
+Isperia the Inscrutable
+Riddlemaster Sphinx
+
+===
+
+# Isshin Attacks
+
+Canyon Slough
+Furycalm Snarl
+Mountain
+Mountain
+Nomad Outpost
+Plains
+Swamp
+Thriving Bluff
+Curse of Opulence
+Cheering Fanatic
+Skyknight Vanguard
+Captain Lannery Storm
+Isshin, Two Heavens as One
+Krenko, Tin Street Kingpin
+Mardu Ascendancy
+Brutal Hordechief
+Hellrider
+Hellkite Whelp
+Aurelia, the Warleader
+Terror Ballista
+
+===
+
+# Jetmir Tokens
+
+Forest
+Grove of the Burnwillows
+Horizon Canopy
+Jungle Shrine
+Khalni Garden
+Mountain
+Plains
+Thriving Grove
+Rhys the Redeemed
+Katilda, Dawnhart Prime
+Talisman of Impulse
+Talisman of Unity
+Battle for Bretagard
+Cabaretti Charm
+Chatterfang, Squirrel General
+Jinnie Fay, Jetmir's Second
+King Darien XLVIII
+Queen Allenal of Ruadach
+Jetmir, Nexus of Revels
+Explosive Singularity
+
+===
+
+# Jhoira Artifact Legends
+
+Island
+Island
+Mountain
+Mountain
+Mox Amber
+Shivan Reef
+Sokenzan, Crucible of Defiance
+Stormcarved Coast
+Thriving Bluff
+Hero's Heirloom
+Magda, Brazen Outlaw
+Birgi, God of Storytelling
+Crystal Shard
+Honor-Worn Shaku
+Phyrexian Metamorph
+Jhoira, Weatherlight Captain
+Jhoira's Familiar
+Pia and Kiran Nalaar
+Traxos, Scourge of Kroog
+In Bolas's Clutches
+
+===
+
+# Karador Creature Graveyard
+
+Darkbore Pathway
+Dryad Arbor
+Fetid Heath
+Forest
+Plains
+Sandsteppe Citadel
+Swamp
+Thriving Moor
+Cathar Commando
+Fiend Artisan
+Outland Liberator
+Priest of Fell Rites
+Shigeki, Jukai Visionary
+Shriekmaw
+Talisman of Resilience
+Deathbloom Ritualist
+Underrealm Lich
+Vengeful Pharaoh
+Wrenn and Seven
+Karador, Ghost Chieftain
+
+===
+
+# Kaza Wizard Spells
+
+Cascade Bluffs
+Fiery Islet
+Island
+Mountain
+Thriving Bluff
+Balmor, Battlemage Captain
+Comet Storm
+Kaza, Roil Chaser
+Aegar, the Freezing Flame
+Jeska's Will
+Seething Song
+Silundi Vision
+Commit // Memory
+Goblin Wizardry
+Mizzix's Mastery
+Talrand, Sky Summoner
+Docent of Perfection
+Umara Wizard
+Melek, Izzet Paragon
+Sea Gate Restoration
+
+===
+
+# Kels+Gix Kamikaze
+
+Access Tunnel
+Swamp
+Swamp
+Swamp
+Swamp
+Thriving Moor
+Thriving Moor
+Reaper's Talisman
+Bloodghast
+Termination Facilitator
+Zhentarim Bandit
+Blackbloom Rogue
+Gix, Yawgmoth Praetor
+Moira, Urborg Haunt
+Pawn of Ulamog
+Stronghold Assassin
+Burakos, Party Leader
+Kels, Fight Fixer
+Sifter of Skulls
+Smothering Abomination
+
+===
+
+# Kenrith Ability Value
+
+City of Brass
+Exotic Orchard
+Hall of Tagsin
+Indatha Triome
+Mountain
+Rootbound Crag
+Thriving Moor
+Vivid Creek
+Biomancer's Familiar
+Plargg, Dean of Chaos
+Soulbright Flamekin
+Zimone, Quandrix Prodigy
+Chromatic Lantern
+Dark Impostor
+Zirda, the Dawnwaker
+Marchesa, the Black Rose
+Ethersworn Adjudicator
+Jodah, the Unifier
+Kenrith, the Returned King
+Ramos, Dragon Engine
+
+===
+
+# Kess Spells
+
+Bloodstained Mire
+Fetid Pools
+Island
+Mountain
+Mountain
+River of Tears
+Swamp
+Thriving Moor
+Pongify
+Reanimate
+Commune with Lava
+Demonic Tutor
+Desperate Ritual
+Night's Whisper
+Thing in the Ice
+Midnight Clock
+Soul Shatter
+Spellseeker
+Cormela, Glamour Thief
+Kess, Dissident Mage
+
+===
+
+# Kethis Legends
+
+Forest
+Forest
+Godless Shrine
+Necroblossom Snarl
+Plains
+Sunpetal Grove
+Swamp
+Thriving Heath
+Golgari Signet
+Isareth the Awakener
+Kethis, the Hidden Hand
+Reki, the History of Kamigawa
+Somberwald Sage
+The Peregrine Dynamo
+Captain Sisay
+The Wandering Emperor
+Arvad the Cursed
+Kaya the Inexorable
+Tolsimir, Friend to Wolves
+Yawgmoth's Vile Offering
+
+===
+
+# Kinnan Ramp Flash
+
+Flooded Grove
+Forest
+Forest
+Island
+Island
+Thriving Grove
+Ilysian Caryatid
+Incubation Druid
+Kinnan, Bonder Prodigy
+Leafkin Druid
+Phantasmal Image
+Talisman of Curiosity
+Tangled Florahedron
+Gilanra, Caller of Wirewood
+Glasspool Mimic
+Clever Impersonator
+Subtlety
+Dream Eater
+Genesis Storm
+Great Oak Guardian
+
+===
+
+# Kolvori Legends
+
+Forest
+Forest
+Forest
+The World Tree
+Thriving Grove
+Thriving Grove
+Tyrite Sanctum
+Hero's Blade
+Moss Diamond
+Sword of the Chosen
+Whisperer of the Wilds
+Esika, God of the Tree
+Rhonas the Indomitable
+Yisan, the Wanderer Bard
+Halana, Kessig Ranger
+Helm of the Host
+Kolvori, God of Kinship
+Nylea, Keen-Eyed
+Polukranos, World Eater
+Turntimber Symbiosis
+
+===
+
+# Korvold Aristocrats
+
+Dragonskull Summit
+Forest
+Mountain
+Savage Lands
+Swamp
+Terramorphic Expanse
+Thriving Moor
+Traverse the Ulvenwald
+Pentad Prism
+Reassembling Skeleton
+Awakening Zone
+Braids, Arisen Nightmare
+Daretti, Ingenious Iconoclast
+Gadrak, the Crown-Scourge
+Glittering Stockpile
+Mayhem Devil
+Tuktuk the Explorer
+Body Launderer
+Xira, the Golden Sting
+Korvold, Fae-Cursed King
+
+===
+
+# Kozilek Ramp
+
+Ancient Tomb
+Ash Barrens
+Ash Barrens
+Guildless Commons
+Jeweled Lotus
+War Room
+Wastes
+Wastes
+Wastes
+Dismember
+Thought Vessel
+Treasure Map
+Walking Ballista
+Karn, Scion of Urza
+Thran Dynamo
+Geode Golem
+Conduit of Ruin
+Ugin, the Ineffable
+Meteor Golem
+Kozilek, the Great Distortion
+
+===
+
+# Kykar Noncreature Tokens
+
+Holdout Settlement
+Island
+Mountain
+Plains
+Sacred Foundry
+Skycloud Expanse
+Thriving Isle
+Strike It Rich
+Beyeen Veil
+Expressive Iteration
+Fateful Absence
+Krark, the Thumbless
+Protect the Negotiators
+Raff, Weatherlight Stalwart
+Fight with Fire
+Monastery Mentor
+Prismari Command
+Jaya, Fiery Negotiator
+Kykar, Wind's Fury
+Whirlwind of Thought
+
+===
+
+# Locust God Draw
+
+Island
+Island
+Island
+Izzet Boilerworks
+Mountain
+Mountain
+Spirebluff Canal
+Thriving Isle
+Izzet Signet
+Jace, Vryn's Prodigy
+Remand
+Chasm Skulker
+Grinning Ignus
+Irencrag Pyromancer
+Leadership Vacuum
+Minn, Wily Illusionist
+Whirlpool Warrior
+Solemn Simulacrum
+Teferi, Temporal Pilgrim
+The Locust God
+
+===
+
+# Lurrus 2cmc Reanimator
+
+Mishra's Bauble
+Plains
+Plains
+Plains
+Shineshadow Snarl
+Silent Clearing
+Swamp
+Swamp
+Thriving Heath
+Blood Pet
+Executioner's Capsule
+Quest for the Gravelord
+Basal Thrull
+Mire Triton
+Mire's Grasp
+Nullpriest of Oblivion
+Soldevi Adnate
+The Birth of Meletis
+Vengeful Strangler
+Lurrus of the Dream-Den
+
+===
+
+# Maelstrom Cascade Aggro
+
+Forest
+Island
+Mountain
+Rockfall Vale
+Shinka, the Bloodsoaked Keep
+Sulfur Falls
+Thriving Isle
+Yavimaya Coast
+Gruul Signet
+Hajar, Loyal Bodyguard
+Component Pouch
+Delayed Blast Fireball
+Bloodbraid Elf
+Sakashima of a Thousand Faces
+Gilded Lotus
+Imoti, Celebrant of Bounty
+Etali, Primal Storm
+Keeper of Secrets
+Kodama of the East Tree
+Maelstrom Wanderer
+
+===
+
+# Meren Creature Graveyard
+
+Forest
+Forest
+Phyrexian Tower
+Swamp
+Temple of Malady
+Thriving Grove
+Urborg, Tomb of Yawgmoth
+Diligent Farmhand
+Apprentice Necromancer
+Sakura-Tribe Elder
+Strionic Resonator
+Bala Ged Recovery
+Blood Vassal
+Liliana, Heretical Healer
+Midnight Reaper
+Plaguecrafter
+Gonti, Lord of Luxury
+Meren of Clan Nel Toth
+Skyfisher Spider
+Liliana, Dreadhorde General
+
+===
+
+# Muldrotha Graveyard Permanents
+
+Boseiju, Who Endures
+Deathcap Glade
+Forest
+Island
+Swamp
+Thriving Isle
+Verdant Catacombs
+Zagoth Triome
+Kaya's Ghostform
+Altar of Dementia
+Aven Heartstabber
+Deranged Assistant
+Rootcoil Creeper
+Skull Prophet
+Urborg Lhurgoyf
+Binding the Old Gods
+Hostage Taker
+Vraska, Golgari Queen
+Lord of the Forsaken
+Muldrotha, the Gravetide
+
+===
+
+# Nymris Flash
+
+Creeping Tar Pit
+Island
+Island
+Sunken Hollow
+Swamp
+Swamp
+Thriving Moor
+Brineborn Cutthroat
+Cunning Nightbonder
+Jwari Disruption
+Liberator, Urza's Battlethopter
+Naiad of Hidden Coves
+Slitherwisp
+Wavebreak Hippocamp
+Ertai Resurrected
+Overcharged Amalgam
+Stunt Double
+Nymris, Oona's Trickster
+Zareth San, the Trickster
+Lochmere Serpent
+
+===
+
+# Omnath Lands Legends
+
+Clifftop Retreat
+Island
+Ketria Triome
+Krosan Verge
+Plains
+Thriving Bluff
+Wooded Foothills
+Blackblade Reforged
+Lotus Cobra
+Harrow
+Khalni Ambush
+Ramunap Excavator
+Toggo, Goblin Weaponsmith
+Uro, Titan of Nature's Wrath
+Arixmethes, Slumbering Isle
+Khalni Gem
+Omnath, Locus of Creation
+Ashaya, Soul of the Wild
+Thalia's Lancers
+Aesi, Tyrant of Gyre Strait
+
+===
+
+# Osgir Artifact Graveyard
+
+Battlefield Forge
+Lotus Petal
+Mountain
+Needleverge Pathway
+Plains
+Plains
+Power Depot
+Thriving Bluff
+Treasure Vault
+Oswald Fiddlebender
+Talisman of Conviction
+Mishra, Excavation Prodigy
+Rings of Brighthearth
+Daretti, Scrap Savant
+Hedron Archive
+Nahiri, the Harbinger
+Osgir, the Reconstructor
+Darksteel Juggernaut
+Duplicant
+
+===
+
+# Prince Urza Artifact Aggro
+
+Island
+Island
+Mirrex
+Plains
+Plains
+Razortide Bridge
+Temple of Enlightenment
+Thriving Isle
+Annex Sentry
+Foundry Inspector
+Master of Etherium
+Scuttlemutt
+Thran Spider
+Urza, Prince of Kroog
+Bladegriff Prototype
+Ironsoul Enforcer
+Research Thief
+Cyberdrive Awakener
+Kappa Cannoneer
+Ethersworn Sphinx
+
+===
+
+# Prosper Exile
+
+Graven Cairns
+Mountain
+Mountain
+Mountain
+Sol Talisman
+Sulfurous Springs
+Swamp
+Swamp
+Thriving Moor
+Talisman of Indulgence
+Laelia, the Blade Reforged
+Professional Face-Breaker
+Grim Hireling
+Hidetsugu, Devouring Chaos
+Hurl Through Hell
+Prosper, Tome-Bound
+Tectonic Giant
+Mizzix, Replica Rider
+Rain of Riches
+Nalfeshnee
+
+===
+
+# Purphoros Sneak Attack
+
+Mountain
+Mountain
+Mountain
+Mountain
+Thriving Bluff
+Thriving Bluff
+Vesuva
+Iron Myr
+Cursed Mirror
+Unstable Obelisk
+Valakut Awakening
+Flameshadow Conjuring
+Industrial Advancement
+Neheb, Dreadhorde Champion
+Hoarding Dragon
+Purphoros, Bronze-Blooded
+Hellkite Tyrant
+Inferno Titan
+Sandstone Oracle
+Cityscape Leveler
+
+===
+
+# Queen Kayla Small Reanimator
+
+Boros Garrison
+Mountain
+Mountain
+Mountain
+Plains
+Plains
+Temple of Triumph
+Thriving Bluff
+Currency Converter
+Conspiracy Theorist
+Gold Myr
+Battlemage's Bracers
+Diviner's Wand
+Glint-Horn Buccaneer
+Grinning Ignus
+Irencrag Pyromancer
+Loran of the Third Path
+Priest of Urabrask
+Queen Kayla bin-Kroog
+Surly Badgersaur
+
+===
+
+# Radha Land Card Advantage
+
+Copperline Gorge
+Forest
+Forest
+Gruul Turf
+Mountain
+Mountain
+Mountain Valley
+Thriving Bluff
+Mirri's Guile
+Wayfarer's Bauble
+Ground Assault
+Tempered in Solitude
+Dryad of the Ilysian Grove
+Lantern of Revealing
+Radha, Heart of Keld
+Kamahl's Will
+Vizier of the Menagerie
+Greensleeves, Maro-Sorcerer
+Sunbird's Invocation
+Omnath, Locus of Rage
+
+===
+
+# Raffine Connive Tokens
+
+Cephalid Coliseum
+Clearwater Pathway
+Island
+Plains
+Port Town
+Shambling Vent
+Swamp
+Thriving Moor
+Ledger Shredder
+Azorius Keyrune
+Big Game Hunter
+Bog Witch
+Dimir Keyrune
+Ghastly Discovery
+Nadir Kraken
+Raffine, Scheming Seer
+Toluz, Clever Conductor
+Alandra, Sky Dreamer
+Kamiz, Obscura Oculus
+Archfiend of Ifnir
+
+===
+
+# Raggadragga Mana-dorks
+
+Forest
+Forest
+Karplusan Forest
+Mountain
+Mountain
+Stomping Ground
+Thriving Grove
+Green Sun's Zenith
+Lay of the Land
+Cryptolith Rite
+Fanning the Flames
+Scorned Villager
+Chord of Calling
+Runadi, Behemoth Caller
+Undercellar Myconid
+Beast Whisperer
+Raggadragga, Goreguts Boss
+Undermountain Adventurer
+Voracious Hydra
+Alena, Kessig Trapper
+
+===
+
+# Rakdos Creature Aggro
+
+Blightstep Pathway
+Mountain
+Mountain
+Rakdos Carnarium
+Shadowblood Ridge
+Swamp
+Swamp
+Thriving Moor
+Rakdos Signet
+Stormfist Crusader
+Florian, Voldaren Scion
+Judith, the Scourge Diva
+Spiteful Prankster
+Brazen Cannonade
+Chandra, Torch of Defiance
+Garna, Bloodfist of Keld
+Mishra, Claimed by Gix
+Rakdos, Lord of Riots
+Brash Taunter
+Neheb, the Eternal
+
+===
+
+# Riku Everything
+
+Breeding Pool
+Forest
+Island
+Island
+Mountain
+Scalding Tarn
+Temple of Epiphany
+Thriving Bluff
+Errant, Street Artist
+Rift Sower
+Abrade
+Dig Through Time
+Reality Shift
+Unsubstantiate
+Bonder's Ornament
+Roiling Regrowth
+Kalamax, the Stormsire
+Niblis of Frost
+Backdraft Hellkite
+Riku of Two Reflections
+
+===
+
+# Saffi Creature Reanimator
+
+Branchloft Pathway
+Brushland
+Forest
+Forest
+Plains
+Plains
+Thriving Heath
+Caravan Vigil
+Tinder Wall
+Devoted Druid
+Saffi Eriksdotter
+Fairgrounds Warden
+Shaman of Forgotten Ways
+Felidar Guardian
+Cavalier of Dawn
+Karmic Guide
+Reveillark
+Adarkar Valkyrie
+Sun Titan
+Apex Altisaur
+
+===
+
+# Scarab Creature Graveyard
+
+Darkwater Catacombs
+Island
+Island
+Swamp
+Swamp
+Thriving Isle
+Underground River
+Malakir Rebirth
+Stitcher's Supplier
+Plague Myr
+Cryptolith Fragment
+Infernal Idol
+Disciple of Bolas
+Fact or Fiction
+Sower of Temptation
+Cavalier of Night
+River Kelpie
+Sidisi, Undead Vizier
+The Scarab God
+Kairi, the Swirling Sky
+
+===
+
+# Sedris Unearth
+
+Bad River
+Island
+Island
+Lotus Bloom
+Mountain
+Sunken Ruins
+Swamp
+Thriving Bluff
+Xander's Lounge
+Undead Butler
+Egon, God of Death
+The Celestus
+Worn Powerstone
+Fireflux Squad
+Obeka, Brute Chronologist
+Fallen Shinobi
+Phyrexian Delver
+All-Seeing Arbiter
+Noxious Gearhulk
+Sedris, the Traitor King
+
+===
+
+# Selvala Big Power
+
+Forest
+Forest
+Forest
+Forest
+Lair of the Hydra
+Thriving Grove
+Thriving Grove
+Wirewood Lodge
+Berserk
+Fyndhorn Elves
+Duskwatch Recruiter
+Ram Through
+Sheltering Ancient
+Hyrax Tower Scout
+Relic Golem
+Selvala, Heart of the Wilds
+The Great Henge
+Rishkar's Expertise
+Woodland Bellower
+Terastodon
+
+===
+
+# Stickfingers Creature Graveyard
+
+Forest
+Forest
+Golgari Rot Farm
+Swamp
+Swamp
+Tainted Wood
+Thriving Moor
+Reclaim the Wastes
+Copper Myr
+Old Stickfingers
+Reclusive Taxidermist
+Skyclave Shade
+Coffin Queen
+Demon's Disciple
+Grist, the Hunger Tide
+Leyline Prowler
+Splinterfright
+Kagha, Shadow Archdruid
+From the Catacombs
+Hogaak, Arisen Necropolis
+
+===
+
+# Sydri Artifact Animator
+
+Arcane Sanctum
+Dimir Aqueduct
+Island
+Plains
+Swamp
+Thriving Heath
+Fieldmist Borderpost
+Mistvein Borderpost
+Colossal Plow
+Etherium Sculptor
+Liquimetal Torque
+Mechtitan Core
+Tale's End
+Lita, Mechanical Engineer
+Sydri, Galvanic Genius
+Katsumasa, the Animator
+Loran, Disciple of History
+Rebbec, Architect of Ascension
+Weatherlight
+Urza, Chief Artificer
+
+===
+
+# Tatyova Land Card Advantage
+
+Fabled Passage
+Forest
+Island
+Island
+Myriad Landscape
+Simic Growth Chamber
+Thriving Grove
+Three Visits
+Cultivate
+Kazandu Mammoth
+Nissa, Vastwood Seer
+Tatyova, Steward of Tides
+Oracle of Mul Daya
+World Shaper
+Perennial Behemoth
+Tatyova, Benthic Druid
+Ancient Greenwarden
+Multani, Yavimaya's Avatar
+Scourge of Fleets
+Brinelin, the Moon Kraken
+
+===
+
+# Tayam +1/+1 Small Reanimator
+
+Blooming Marsh
+Forest
+Plains
+Prismatic Vista
+Swamp
+Thriving Grove
+Twilight Mire
+Avacyn's Pilgrim
+Birds of Paradise
+Animate Dead
+Safehold Elite
+Wall of Roots
+Aron, Benalia's Ruin
+Promise of Bunrei
+Seal of Doom
+The Restoration of Eiganjo
+Thrashing Brontodon
+Tayam, Luminous Enigma
+Kathril, Aspect Warper
+
+===
+
+# Teferi Untap Flash
+
+Castle Vantress
+Island
+Island
+Island
+Lotus Field
+Mobilized District
+Thriving Isle
+Thriving Isle
+Everflowing Chalice
+Brazen Borrower
+Kelpie Guide
+Vendilion Clique
+Empowered Autogenerator
+Lithoform Engine
+Memory Deluge
+Nimbleclaw Adept
+Voracious Greatshark
+Draining Whelk
+Teferi, Temporal Archmage
+Sundering Titan
+
+===
+
+# Teshar Artifact Reanimator
+
+Eiganjo, Seat of the Empire
+Inventors' Fair
+Plains
+Plains
+Plains
+Thriving Heath
+Thriving Heath
+Esper Sentinel
+Bounty Agent
+Ingenious Smith
+Sanwell, Avenger Ace
+Anointed Peacekeeper
+Blade Splicer
+Burnished Hart
+Inspiring Statuary
+Mine Bearer
+Palladium Myr
+Tocasia's Welcome
+Teshar, Ancestor's Apostle
+Emeria's Call
+
+===
+
+# Teysa Aristo Tokens
+
+Great Hall of Starnheim
+Isolated Chapel
+Plains
+Plains
+Swamp
+Swamp
+Tainted Field
+Thriving Heath
+Hanweir Militia Captain
+Orzhov Signet
+Priest of Forgotten Gods
+Tribute to Horobi
+Crowded Crypt
+Skullport Merchant
+Teysa, Orzhov Scion
+Hero of Bladehold
+Luminous Broodmoth
+Minthara, Merciless Soul
+Seize the Soul
+Ravos, Soultender
+
+===
+
+# Toshiro Spell Control
+
+Castle Locthwain
+Swamp
+Swamp
+Swamp
+Swamp
+Thriving Moor
+Thriving Moor
+Tragic Slip
+Cabal Ritual
+Charcoal Diamond
+Isochron Scepter
+Power Word Kill
+Price of Fame
+Grim Return
+Morbid Opportunist
+Toshiro Umezawa
+Victory Chimes
+Hagra Mauling
+Wretched Confluence
+Professor Onyx
+
+===
+
+# Urza Artifacts
+
+Buried Ruin
+Command Beacon
+Island
+Island
+Island
+Island
+Thriving Isle
+Thriving Isle
+Artificer Class
+Coldsteel Heart
+The Reality Chip
+Fabricate
+Saheeli, Sublime Artificer
+Sai, Master Thopterist
+Karn, Living Legacy
+Thought Monitor
+Urza, Lord High Artificer
+Blinkmoth Urn
+Tezzeret the Seeker
+Memnarch
+
+===
+
+# Vannifar Pod
+
+Barkchannel Pathway
+Botanical Sanctum
+Forest
+Forest
+Island
+Island
+Minamo, School at Water's Edge
+Thriving Grove
+Kiora's Follower
+Simic Signet
+Exclusion Mage
+Patriar's Seal
+Quasiduplicate
+Prime Speaker Vannifar
+Spark Double
+Timeless Witness
+Thragtusk
+Wurmcoil Engine
+Protean Hulk
+Woodfall Primus
+
+===
+
+# Volrath Proliferate
+
+Dreadship Reef
+Forest
+Island
+Mirrodin's Core
+Shipwreck Marsh
+Swamp
+Thriving Moor
+Woodland Cemetery
+Biophagus
+Hapatra, Vizier of Poisons
+Bloated Contaminator
+Generous Patron
+Glistening Sphere
+Kodama of the West Tree
+Necroskitter
+Sword of Truth and Justice
+Evil Twin
+Ezuri, Stalker of Spheres
+Contaminant Grafter
+Volrath, the Shapestealer
+
+===
+
+# Windgrace Landgrave
+
+Argoth, Sanctum of Nature
+Dakmor Salvage
+Forest
+Geothermal Crevice
+Mountain
+Riveteers Overlook
+Swamp
+Thriving Moor
+Elvish Reclaimer
+Drown in Filth
+Witherbloom Command
+Erinis, Gloom Stalker
+Krosan Restorer
+Springbloom Druid
+Titania, Voice of Gaea
+Uurg, Spawn of Turg
+Soul of Windgrace
+Lord Windgrace
+The Gitrog Monster
+The Mending of Dominaria
+
+===
+
+# Wort Spells Tokens
+
+Fire-Lit Thicket
+Forest
+Forest
+Mountain
+Mountain
+Mountain
+Temple of Abandon
+Thriving Bluff
+Lightning Bolt
+Awaken the Woods
+Verdant Command
+Young Pyromancer
+Beast Within
+Cultivate
+Harvest Season
+Hordeling Outburst
+You See a Pair of Goblins
+Return of the Wildspeaker
+Titania's Command
+Wort, the Raidmother
+
+===
+
+# Yarok ETB
+
+Darkslick Shores
+Forest
+Island
+Opulent Palace
+Overgrown Tomb
+Polluted Delta
+Swamp
+Thriving Grove
+Kenrith's Transformation
+Lonis, Cryptozoologist
+Llanowar Visionary
+Rishkar, Peema Renegade
+Tireless Provisioner
+Esika's Chariot
+Guardian Project
+Ravenous Chupacabra
+Conjurer's Closet
+Yarok, the Desecrated
+Yorion, Sky Nomad
+Titan of Industry
+
+===
+
+# Yidris Cascade
+
+Frontier Bivouac
+Island
+Mountain
+Reflecting Pool
+Sheltered Thicket
+Swamp
+Thriving Isle
+Vivid Grove
+Search for Tomorrow
+Lizard Blades
+Venture Forth
+Decanter of Endless Water
+Faldorn, Dread Wolf Herald
+Shardless Agent
+Irenicus's Vile Duplication
+Wild-Magic Sorcerer
+Yidris, Maelstrom Wielder
+Murderous Cut
+Volcanic Torrent
+Aurora Phoenix
+
+===
+
+# Zacama Land Ramp
+
+Evolving Wilds
+Forest
+Mountain
+Plains
+Temple Garden
+Temple of the False God
+Thriving Bluff
+Yavimaya, Cradle of Growth
+Farseek
+Thaumatic Compass
+Tireless Tracker
+Valakut Exploration
+Earth Tremor
+Felidar Retreat
+Fires of Invention
+Garruk Wildspeaker
+Mirari's Wake
+Rampaging Baloths
+Road // Ruin
+Zacama, Primal Calamity
+
+===
+
+# Ziatora Sacrifice
+
+Forest
+Forest
+Game Trail
+Mountain
+Swamp
+Tainted Peak
+Thriving Grove
+Ziatora's Proving Ground
+Ignoble Hierarch
+Paradise Druid
+Tenacious Underdog
+Corpse Explosion
+Ob Nixilis, the Adversary
+Riveteers Ascendancy
+Topiary Stomper
+Daemogoth Titan
+Jaxis, the Troublemaker
+Rekindling Phoenix
+Ruthless Technomancer
+Ziatora, the Incinerator
