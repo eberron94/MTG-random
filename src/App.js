@@ -82,7 +82,7 @@ const ModePauper = ({ mode }) => {
     return (
         <div>
             <h1>
-                <a href={'https://cubecobra.com/cube/overview/1v1edh'}>
+                <a href={'https://pauperjumpstart.com/pauper-jumpstart-cube/'}>
                     Pauper Jumpstart
                 </a>
             </h1>
