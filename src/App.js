@@ -1,11 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
 
+import { sampleSize } from 'lodash';
+import { useEffect, useState } from 'react';
 import edh_1v1_file from './decks/js-edh-1v1.txt';
 import pauper_file from './decks/js-pauper.txt';
 import { useFile } from './util/hook';
-import { useEffect, useState } from 'react';
-import { sample, sampleSize } from 'lodash';
 
 const App = () => {
     const [mode, setMode] = useState('edh');
@@ -71,13 +70,13 @@ const ModePauper = ({ mode }) => {
     useEffect(() => {
         const pauperSelect = sampleSize(pauperPacks, 2);
         if (mode.includes('rand')) {
-          setList(pauperSelect.concat(sampleSize(guildPacks, 1)));
-
+            setList(pauperSelect.concat(sampleSize(guildPacks, 1)));
         } else {
             // setGuilds(guildPacks);
 
             setList(pauperSelect);
         }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [pauper, mode, counter]);
 
     return (
@@ -115,21 +114,21 @@ const Sample = ({ list }) => {
     );
 };
 
-const smartGuild = (deckList, guildPacks) => {
-    const titleArr = deckList.map((t) => t.title);
-    const red = checkTitle(titleArr, 'red');
-    const blue = checkTitle(titleArr, 'blue');
-    const green = checkTitle(titleArr, 'green');
-    const white = checkTitle(titleArr, 'white');
-    const black = checkTitle(titleArr, 'black');
+// const smartGuild = (deckList, guildPacks) => {
+//     const titleArr = deckList.map((t) => t.title);
+//     const red = checkTitle(titleArr, 'red');
+//     const blue = checkTitle(titleArr, 'blue');
+//     const green = checkTitle(titleArr, 'green');
+//     const white = checkTitle(titleArr, 'white');
+//     const black = checkTitle(titleArr, 'black');
 
-    if (red && blue) return '';
-};
+//     if (red && blue) return '';
+// };
 
-const checkTitle = (titleArr, includesStr) => {
-    return titleArr.some((t) =>
-        t.toLowercase().includes(includesStr.toLowercase())
-    );
-};
+// const checkTitle = (titleArr, includesStr) => {
+//     return titleArr.some((t) =>
+//         t.toLowercase().includes(includesStr.toLowercase())
+//     );
+// };
 
 export default App;

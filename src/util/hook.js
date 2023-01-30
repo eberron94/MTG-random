@@ -8,7 +8,7 @@ export const useFile = (fileName, type) => {
             .then((textContent) => {
                 setText(parseFile(textContent, type));
             });
-    }, []);
+    }, [fileName, type]);
 
     return [text];
 };
